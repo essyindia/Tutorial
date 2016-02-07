@@ -1,0 +1,21 @@
+package traversal.tree.dsEssyIndia;
+
+import java.util.LinkedList;
+import java.util.Queue;
+
+import tree.dsEssyIndia.TreeNode;
+
+public class PreOrder {
+	
+	Queue objQ=new LinkedList<TreeNode>();
+	
+	void preOrderTraversal(TreeNode node){
+		if(node==null){
+			
+		}else if(root.getLeft()!=null){
+			
+		}
+		
+	}
+
+}
